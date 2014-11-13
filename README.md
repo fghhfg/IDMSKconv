@@ -8,6 +8,7 @@ Tested dictionaries:
 * LDOCE5
 * OALD7
 * Longman Phrasal Verbs 2e
+* Cambridge English Grammar Today
 
 Command line usage:
 
